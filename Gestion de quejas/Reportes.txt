@@ -1,3 +1,0 @@
-emanuel,se callo,mi casa,servicios publicos,pendiente
-emanuel,pepe,pepito,infraestructura,pendiente
-emanuel,peeepito,peee,infraestructura,pendiente
